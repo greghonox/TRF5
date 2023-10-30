@@ -9,3 +9,4 @@
 ---
 ## Ferramentas:
 ### Python 3.10
+### Poetry
